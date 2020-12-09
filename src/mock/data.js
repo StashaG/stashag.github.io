@@ -31,7 +31,7 @@ export const projectsData = [
     img: 'Tunebuzz_Homepage.jpg',
     title: 'Tunebuzz',
     info: 'An app that allows a user to create a new awesome playlist after selecting 3 music genres.  Once the user selects their genres they will see a new playlist displayed with 15 new songs to dance to.',
-    info2: '- Built using HTML, CSS, JavaScript,Node.js, Express.js, Passport.js, PostgreSQL, Sequelize, and Spotify API.',
+    info2: 'Built using HTML, CSS, JavaScript,Node.js, Express.js, Passport.js, PostgreSQL, Sequelize, and Spotify API.',
     url: 'https://dry-beach-63193.herokuapp.com/',
     repo: 'https://github.com/StashaG/tunebuzz', // if no repo, the button will not show up
   },
