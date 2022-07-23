@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'http://bit.ly/37N8x26', // if no resume, the button will not show up
+  resume: 'https://bit.ly/3RUgCZb', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
